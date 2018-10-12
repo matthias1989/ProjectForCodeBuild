@@ -1,4 +1,4 @@
-package nl.cavero;
+package main.java;
 
 public class HelloApp {
 
