@@ -1,10 +1,10 @@
-package main.java;
+package nl.cavero;
 
 public class HelloApp {
 
 	public static void main(String[] args) {
 		Integer result = sum(2,3);
-		System.out.println("Hello world - 6 : "+result);
+		System.out.println("Hello world - 7 : "+result);
 
 	}
 	

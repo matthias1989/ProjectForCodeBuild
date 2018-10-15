@@ -1,9 +1,9 @@
-package test.java;
+package nl.cavero;
 
 import org.junit.Before;
 import org.junit.Test;
 
-import main.java.HelloApp;
+
 
 import org.junit.Assert;
 
