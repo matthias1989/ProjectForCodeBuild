@@ -3,8 +3,8 @@ package nl.cavero;
 public class HelloApp {
 
 	public static void main(String[] args) {
-		Integer result = sum(2,3);
-		System.out.println("Hello world - 11 : "+result);
+		Integer result = sum(2,10);
+		System.out.println("Hello world - 12 : "+result);
 
 	}
 	
