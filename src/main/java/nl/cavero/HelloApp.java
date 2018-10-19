@@ -4,7 +4,7 @@ public class HelloApp {
 
 	public static void main(String[] args) {
 		Integer result = sum(2,10);
-		System.out.println("Hello world - 85: "+result);
+		System.out.println("Hello world - 86: "+result);
 
 	}
 	
